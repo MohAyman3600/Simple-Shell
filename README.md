@@ -23,10 +23,10 @@ make
 ```
 
 ## Notes & To Do
-Input & output redirection does not work (ex. cat < file1 > file2)
-Output redirection overwrites the files instead of flushing old content 
-(ex: ls > file1cat file2 > file1) file1 contains results of ls and content of file2, it should only contain file2. 
-fixing warnings
+* Input & output redirection does not work (ex. cat < file1 > file2)
+* Output redirection overwrites the files instead of flushing old content 
+  (ex: ls > file1cat file2 > file1) file1 contains results of ls and content of file2, it should only contain file2. 
+* fixing warnings
 
 ## Authors
 
